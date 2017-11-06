@@ -8,6 +8,7 @@ set number
 set backspace=start,eol,indent
 set hlsearch
 set ambiwidth=double
+set cursorline
 syntax on
 
 if has("autocmd")
